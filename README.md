@@ -7,4 +7,4 @@ Customers follow businesses, watch reels, like, comment and send messages.
 Flutter (Android and iOS), Laravel API, MySQL, Cloudinary
 
 ## Docs
-[Architecture plan](Shoof_App_Architecture_Plan.pdf)
+[Architecture plan](Shoof%20App%20Architecture%20Plan.pdf)
